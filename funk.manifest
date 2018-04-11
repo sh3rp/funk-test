@@ -1,0 +1,8 @@
+{
+	"github_url":"https://github.com/sh3rp/funk-test",
+	"main_file":"funktest.go",
+	"input_method":"generator",
+	"input_parameters: {
+		"param1":"value1"
+	}	
+}
